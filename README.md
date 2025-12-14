@@ -62,7 +62,9 @@ It is designed for **lab environments** and **explicitly authorized targets** on
 
 ```bash
 git clone https://github.com/aurabutbroke/Ddos_tool
-cd ddos.py
+cd Ddos_tool
+pkg install figlet
+python2 ddos.py
 ```
 
 > ⚠️ Usage instructions are intentionally **omitted** to prevent misuse. Use only in approved lab scenarios.
